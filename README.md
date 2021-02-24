@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##TO GET THIS RUNNING
+ 1. git clone https://github.com/TreyK95/DptStore OR git@github.com:TreyK95/DptStore.git
+ 2. CD PROJ_NAME_HERE
+ 3. RUN 'BUNDLE'
+ 4. run 'yarn'
+ 5. rails db:create db:migrate db:seed 
+ 6. rails s
+ 7. go to localhost:30000 
+ 8. 
