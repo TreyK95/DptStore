@@ -1,0 +1,2 @@
+class DptStore < ApplicationRecord
+end

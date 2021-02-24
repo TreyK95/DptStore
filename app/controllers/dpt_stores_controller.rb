@@ -1,0 +1,2 @@
+class DptStoresController < ApplicationController
+end
