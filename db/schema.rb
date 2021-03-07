@@ -32,3 +32,4 @@ ActiveRecord::Schema.define(version: 2021_02_25_213724) do
 
   add_foreign_key "items", "dpt_stores"
 end
+#co,meflkajd;fakldjfdsl
